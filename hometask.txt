@@ -1,0 +1,13 @@
+Branches YaLyceum:demo and Keworker:master are different (different README.md, different commits history). 
+
+Commits in master:
+ - init
+ - head_added
+ - boots
+ - README added 
+ - dots 
+ - fix readme
+ - Merge pull request #1 from Keworker/boots
+ - Merge pull request #2 from Keworker/buttons
+ - Merge pull request #3 from YandexLyceum/hat
+ - Merge pull request #4 from Keworker/boots_buttons
